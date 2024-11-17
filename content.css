@@ -1,0 +1,18 @@
+.post{
+    width:450px;
+    padding: 10px 10px;
+    margin: auto;
+    margin-top: 30px;
+}
+#describe{
+    height: 100px;
+}
+input{
+    border-radius: 2%;
+}
+form{
+    width: 50%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-left: 60px;
+}
